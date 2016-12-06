@@ -1,6 +1,6 @@
 ## drawing table with user join info ( created_at -> in an hour)
 
-### \# ========sample image========
+### ========sample image========
 ![sample_image](https://github.com/novelview9/django_table/blob/master/sample/sample.png)
  working in python 3 +   
  
